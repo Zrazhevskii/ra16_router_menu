@@ -7,9 +7,9 @@
 
 Компонент должен создавать HTML-разметку вида:
 
-<nav class="menu">
+```<nav class="menu">
   <a class="menu__item" href="/">Главная</a>
   <a class="menu__item" href="/drift">Дрифт-такси</a>
   <a class="menu__item" href="/timeattack">Time Attack</a>
   <a class="menu__item" href="/forza">Forza Karting</a>
-</nav>
+</nav>```
