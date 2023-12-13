@@ -22,8 +22,6 @@ export default function Menu() {
                 </nav>
             </div>
             <Outlet />
-
-            <footer>2021</footer>
         </>
     );
 }
